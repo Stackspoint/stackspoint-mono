@@ -1,0 +1,9 @@
+{
+  "changelog": "@changesets/cli/changelog",
+  "commit": false,
+  "linked": [["@adryx/core", "@adryx/react", "@adryx/react-native"]],
+  "access": "public",
+  "baseBranch": "main",
+  "updateInternalDependencies": "patch",
+  "ignore": []
+}
